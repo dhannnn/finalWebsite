@@ -12,6 +12,6 @@ David Han
 
 ### My Brag Sheet
 
-[Link](url) and ![Image](src)
-```
+
+
 
