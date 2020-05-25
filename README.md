@@ -1,9 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to my website!
 
-### Markdown
+### My Name
+David Han
 
+### My Social Media Information
+-Instagram:
 
-**Bold** and _Italic_ and `Code` text
+-Snapchat:
+### A Picture of Me
+
+### My Brag Sheet
 
 [Link](url) and ![Image](src)
 ```
